@@ -11,8 +11,8 @@ from flask import Flask, request, jsonify
 import threading
 
 # ============== CONFIGURATION ==============
-BOT_TOKEN = "8924634458:AAGJSKntWnJYyFEik07ELwAK28HPu-uRro8"
-ADMIN_ID = 8970921994
+BOT_TOKEN = "ENTER YOUR BOT TOKEN"
+ADMIN_ID = 6508791739
 
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 
